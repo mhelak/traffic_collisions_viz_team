@@ -1,2 +1,9 @@
-# traffic_collisions_viz_team
-the repository containing the Data Visualization Team's materials for the Traffic Collisions Project
+# Traffic Collision Data Visualization Project
+
+This is the public repository containing the Traffic Collisions Project materials for the Data Visualization Team.  
+
+Team Members:  
+- Niwako Sugimura  
+- Jeny De Figiueiredo  
+- Monika Helak  
+- Rebecca Stewart  
