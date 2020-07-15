@@ -7,3 +7,4 @@ Team Members:
 - Jeny De Figiueiredo  
 - Monika Helak  
 - Rebecca Stewart  
+- Jamie Shaffer
